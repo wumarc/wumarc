@@ -1,5 +1,6 @@
-### Hi, I am Marc WU
+### Hi,
 
+I am Marc, a second year computer science student at uOttawa
 
 * I am interested in quantitative finance and app development
 * I am currently learning Android developement and React

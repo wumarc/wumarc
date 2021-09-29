@@ -1,6 +1,6 @@
 ### Hi,
 
-* I am a second year computer science student at uOttawa
-* I am interested in quantitative finance and app development
-* I am currently learning Android developement and React
+* I am a second year Computer Science student at uOttawa
+* I am interested in web and app development
+* I am currently learning Angular
 * Reach me at wumarckun@gmail.com

@@ -1,4 +1,4 @@
-### Hi,
+### Hi!
 
 * I am a second year Computer Science student at uOttawa
 * I am interested in web and app development

@@ -1,5 +1,5 @@
 ### Hi!
 
-* I am a second year Computer Science student at uOttawa
-* I am currently learning full-stack development
+* I am a fourth year Computer Science student at the University of Ottawa
+* Currently a web developer intern @ InterGen Studio.
 * Reach me at wumarckun@gmail.com

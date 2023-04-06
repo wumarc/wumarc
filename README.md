@@ -1,7 +1,8 @@
 ### 👋 Hi There!
 
 * I am a fourth year Computer Science student at the University of Ottawa
-* Currently looking for summer opportunities in software and web developement 
+* Currently looking for opportunities for Fall 2023 in software and web developement 
+* I am looking to collaborate on anything related to my interest
 * Reach me at wumarckun@gmail.com
 
 ### 🚀 Some Tools I Have Used and Learned

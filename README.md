@@ -3,23 +3,3 @@
 * I am a fourth year Computer Science student at the University of Ottawa
 * I am looking to collaborate on anything related to my interest
 * Reach me at wumarckun@gmail.com
-
-[comment]: <### 🚀 Some Tools I Have Used and Learned>
-[comment]: <<p align="left">>
-[comment]:  <<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="45" height="45"/>>
-[comment]:  <<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="45" height="45"/>>
-[comment]:  <<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  width="45" height="45"/>>
-[comment]:  <<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"  width="45" height="45"/>>
-[comment]:  <<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"  width="45" height="45"/>>
-[comment]:  <<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"  width="45" height="45"/>>
-[comment]:  <<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"  width="45" height="45"/>>
-[comment]:  <<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  width="45" height="45"/>>
-[comment]:  <<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="45" height="45"/>>
-[comment]: <</p>
-
-
-[![Marc's GitHub stats](https://github-readme-stats.vercel.app/api?username=wumarc)](https://github.com/wumarc/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wumarc&hide_progress=true)](https://github.com/wumarc/github-readme-stats)
-<!-- [![Marc's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wumarc)](https://github.com/wumarc/github-readme-stats) -->
-
-

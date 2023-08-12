@@ -1,3 +1,1 @@
-### 👋 Hi There!
-
-* [uEvents](https://www.uevents.org/) co-founder
+[@uEvents](https://www.uevents.org/)
